@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyanshukedia
 - 👀 I’m interested in learning and discovering new things.
-- 🌱 I’m currently learning Android app Development and i am in CSE 2nd Year. 
+- 🌱 I’m currently learning Android app Development and i am in CSE 3nd Year. 
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/divyansh-kedia-736926146/  , 
  Gmail: divyanshkedia420@gmail.com
 
