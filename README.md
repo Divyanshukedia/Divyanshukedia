@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Divyanshukedia
 - 👀 I’m interested in learning and discovering new things.
-- 📫 How to reach me linkedin: https://www.linkedin.com/in/divyansh-kedia-736926146/  , 
+- 📫 How to reach me linkedin: https://www.linkedin.com/in/divyanshu-kedia-736926146/  , 
  Gmail: divyanshkedia420@gmail.com
 
 <!---
